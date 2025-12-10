@@ -1,7 +1,7 @@
 # 📄 Ticketator — Automatic Receipt Parser
 
 Ticketator is an **n8n workflow** that reads receipts from your email, extracts all fields using **Azure Document Intelligence**, saves the ticket image to **Google Drive**, and logs both the receipt header and line items into **Google Sheets**.
-
+ ### update: tickets also logged into a firebase server
 ---
 
 ## 🚀 How It Works
